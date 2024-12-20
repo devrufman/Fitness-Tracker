@@ -1,0 +1,48 @@
+{
+    "workouts": [
+      {
+        "id": 1,
+        "name": "Morning Yoga",
+        "description": "A gentle yoga session to start your day with energy and focus.",
+        "duration": 30,
+        "image": "https://media.istockphoto.com/id/1357908618/photo/full-length-shot-of-an-attractive-young-woman-practising-yoga-on-the-beach.webp?a=1&b=1&s=612x612&w=0&k=20&c=sPoJ1aPJIRr9IcREnK12QL3JJmPkUUb9pYIUdYNN2Fs="
+      },
+      {
+        "id": 2,
+        "name": "Cardio Blast",
+        "description": "A high-intensity cardio workout to burn calories and boost stamina.",
+        "duration": 45,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_1T6ouV_7VPB1B6Zc1ryn752fJqmjwFQKeg&s"
+      },
+      {
+        "id": 3,
+        "name": "Strength Training",
+        "description": "Build your strength with this full-body workout.",
+        "duration": 60,
+        "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3RyZW5ndGglMjB0cmFpbmluZ3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 4,
+        "name": "Pilates Session",
+        "description": "Core-focused Pilates exercises for balance and flexibility.",
+        "duration": 40,
+        "image": "https://images.squarespace-cdn.com/content/v1/5c7ecb53c2ff61566686d930/1562682327154-E4IPXWE5MG1ROOZXD8O9/1+Pilates+Form+Photo+by+Form+on+Unsplash.jpg"
+      },
+      {
+        "id": 5,
+        "name": "HIIT Workout",
+        "description": "High-Intensity Interval Training for quick and effective results.",
+        "duration": 20,
+        "image": "https://plus.unsplash.com/premium_photo-1664910207555-fac63513e7ad?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlpdHxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 6,
+        "name": "Cycling Ride",
+        "description": "An outdoor cycling session to increase endurance and leg strength.",
+        "duration": 50,
+        "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGN5Y2xpbmclMjB0ZWFtfGVufDB8fDB8fHww"
+      }
+      
+    ]
+  }
+  
