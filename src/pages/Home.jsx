@@ -8,7 +8,7 @@ const Home = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/workouts") // Update with your mock API URL
+      .get("https://6765d428410f849996563f5a.mockapi.io/db") // Update with your mock API URL
       .then((response) => {
         setWorkouts(response.data);
         setLoading(false);
