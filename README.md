@@ -9,7 +9,7 @@ Features
    - Contact Us: Includes a form for user messages.
 
 2. API Integration:
-   - Fetches workout data dynamically from the ("http://localhost:5000/workouts") .
+   - Fetches workout data dynamically from the ("https://6765d428410f849996563f5a.mockapi.io/db") .
 
 3. Responsive Design:
    - Fully functional on mobile, tablet, and desktop devices.
@@ -26,6 +26,7 @@ Features
 - Styling:Tailwind CSS
 - Vite
 - Google: when finding it difficult to fetch from an external Api
+- Mockapi.io
 
 5. Additional Notes:
 - I added a db.json file in my root folder
